@@ -22,15 +22,16 @@ Publications
 Teaching
 ======
 
-- TA
-  - Practice of Programming (COMS0031131043 @ ECNU), 2022 Spring
+- **Teaching Assistant** of Practice of Programming @ COMS0031131043, ECNU, 2022 Spring.
+- **Instructor** of Youth Algorithm Training Team @ Shanghai Computer Trade Association (SCTA), 2021 Fall.
+- **Captain** of ECNU XCPC(ICPC/CCPC) Training Team @ ECNU, Jul. 2019 - Jul. 2022, [More](/competition/).
 
 Selected Awards
 ======
-- [Undergraduate Student Research Competition Second Place](/files/awards/Sigmod2022-certificate.pdf) @ SIGMOD, 2022
-- Outstanding Undergraduate Thesis @ ECNU, 2022
-- Outstanding Graduate of Shanghai @ Shanghai, 2022
-- The President's Scholarship @ ECNU, 2021
-- [Honors in The ICPC World Finals Contest](/files/awards/2020-Invitational-PLACE.pdf) @ ICPC, 2021
-- Gold Medals in ICPC&CCPC @ [2018](https://acm.ecnu.edu.cn/wiki/index.php?title=One,Two,Three,AK_(2018)), [2019-2020](https://acm.ecnu.edu.cn/wiki/index.php?title=NULL_(2019))
-- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Zhejiang, 2016/2017
+- Undergraduate Student Research Competition Second Place @ [SIGMOD](/files/awards/Sigmod2022-certificate.pdf), 2022.
+- Outstanding Undergraduate Thesis @ ECNU, 2022.
+- Outstanding Graduate of Shanghai @ Shanghai, 2022.
+- The President's Scholarship @ ECNU, 2021.
+- Honors in The ICPC World Finals Contest @ [ICPC](/files/awards/2020-Invitational-PLACE.pdf), 2021.
+- Gold Medals in ICPC&CCPC @ 2018-2022, [More](/competition/).
+- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Zhejiang, 2016/2017.

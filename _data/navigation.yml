@@ -10,7 +10,10 @@ main:
     url: /#teaching  
 
   - title: "Awards"
-    url: /#selected-awards  
+    url: /#selected-awards
+
+  - title: "Competition"
+    url: /competition/
   
   # - title: "Academic Services"
   #   url: /#academic-services
