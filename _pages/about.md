@@ -26,6 +26,12 @@ Teaching
 - **Instructor** of Youth Algorithm Training Team @ Shanghai Computer Trade Association (SCTA), 2021 Fall.
 - **Captain** of ECNU XCPC(ICPC/CCPC) Training Team @ ECNU, Jul. 2019 - Jul. 2022, [More](/competition/).
 
+
+Experience
+======
+- **Microsoft Research Asia**, Research Intern, Feb. 2022 - Jun. 2022.
+
+
 Selected Awards
 ======
 - Undergraduate Student Research Competition Second Place @ [SIGMOD](/files/awards/Sigmod2022-certificate.pdf), 2022.
