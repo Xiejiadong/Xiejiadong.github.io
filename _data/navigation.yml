@@ -11,15 +11,12 @@ main:
 
   - title: "Awards"
     url: /#selected-awards
-
-  - title: "Experience"
-    url: /#experience
+  
+  - title: "Services"
+    url: /#academic-services
 
   - title: "Competition"
     url: /competition/
-  
-  # - title: "Academic Services"
-  #   url: /#academic-services
     
   # - title: "Portfolio"
   #   url: /portfolio/
