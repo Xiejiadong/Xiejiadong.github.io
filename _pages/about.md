@@ -15,8 +15,9 @@ His research interests lie in big data analytics, especially for the graph/netwo
 
 Publications
 ======
+1. **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang. **Minimizing the Influence of Misinformation via Vertex Blocking**, *Accepted by ICDE*, 2023.
 2. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**, *World Wide Web*, pages 679-701, 2022. [PDF](https://link.springer.com/article/10.1007/s11280-021-00905-3).
-1. **Jiadong Xie**. **Hindering Influence Diffusion of Community**, *SIGMOD Conference*, pages 2518-2520, 2022. [PDF](https://dl.acm.org/doi/abs/10.1145/3514221.3520250), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
+3. **Jiadong Xie**. **Hindering Influence Diffusion of Community**, *SIGMOD Conference*, pages 2518-2520, 2022. [PDF](https://dl.acm.org/doi/abs/10.1145/3514221.3520250), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
 
 
 Teaching
