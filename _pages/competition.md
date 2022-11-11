@@ -17,7 +17,7 @@ Awards
 
 *2021-2022*
 
-1. **Pending**, ICPC 45th World Finals Dhaka Contest.
+1. **Rank 50**, ICPC 45th World Finals Dhaka Contest.
 
 *2020-2021*
 
