@@ -22,7 +22,7 @@ Awards
 *2020-2021*
 
 1. **Honors**, ICPC 44th World Finals Moscow Invitational Contest. **Rank 25**.
-2. **Gold Medal**, The 2020 ICPC Asia East Continent Final Contest. **Rank 19/394**.
+2. **Gold Medal**, The 2020 ICPC Asia East Continent Final Contest. **Rank 5/394**.
 3. **Gold Medal**, The 2020 CCPC Qinghuangdao Regional Contest. **Rank 9/243**.
 4. **Gold Medal**, The 2020 CCPC Mianyang Regional Contest. **Rank 14/309**.
 5. **Silver Medal**, The 2020 ICPC Asia Nanjing Regional Contest.
