@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiadong Xie is currently a PhD Candidate at the School of Computer Science and Engineering, University of New South Wale (advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](http://www.cse.unsw.edu.au/~zhangw/)). Previously, he received his B.Eng. degree from East China Normal University in 2022.
+Jiadong Xie is currently a Research Assistant at the School of Computer Science and Engineering, University of New South Wale (advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/)). Previously, he received his B.Eng. degree from East China Normal University in 2022.
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.
 
@@ -36,8 +36,8 @@ Academic Services
 
 Experience
 ======
-- **Microsoft Research Asia**, Research Intern, Feb. 2022 - Jun. 2022.
-
+- **Research Assistant**, the School of Computer Science and Engineering, University of New South Wale (UNSW Sydney), Jul. 2022 - current.
+- **Research Intern**, Microsoft Research Asia, Feb. 2022 - Jun. 2022.
 
 Selected Awards
 ======
