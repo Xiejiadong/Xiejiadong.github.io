@@ -11,6 +11,8 @@ Jiadong Xie joined the International Collegiate Programming Contest (ICPC) and C
 
 Jiadong Xie is the finalist of **ICPC World Final 2020** and **ICPC World Final 2021**.
 
+[Competitive Programming Hall Of Fame](https://cphof.org/profile/codeforces:Xiejiadong).
+
 
 Awards
 ======
