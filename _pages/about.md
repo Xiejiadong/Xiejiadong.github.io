@@ -32,8 +32,10 @@ Teaching
 
 Academic Services
 ======
+- Program Committee Member
+  - CIKM 2023.
 - External Reviewer
-  - VLDB 2023/2024, WWW 2023, KDD 2023.
+  - VLDB, WWW, KDD.
 
 
 Experience
