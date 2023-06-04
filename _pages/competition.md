@@ -51,15 +51,16 @@ Awards
 
 Writer (Judger) of Contests
 ======
-1. The 14th Sichuan Provincial Collegiate Programming Contest. @ Chengdu, Sichuan, Oct 2022.
-2. Nowcoder Multi-University Training 2021. @ Nowcoder, Aug 2021.
-3. 2021 ECNU Campus Invitational Contest. @ ECNU, Apr 2021.
-4. The 12th Sichuan Provincial Collegiate Programming Contest. @ Yibin Sichuan, Oct 2020.
-5. Codeforces Round #664 (Div. 2 & Div. 1). @ Codeforces, Aug 2020.
-6. 2020 Multi-University Training Contest. @ HDU, Aug 2020.
-7. 2020 ECNU Campus Online Invitational Contest. @ ECNU, May 2020.
-8. 2019 Multi-University Training Contest. @ HDU, Aug 2019.
-9. EOJ Monthly Contest. @ ECNU, 2018-2021.
+1. The 15th Sichuan Provincial Collegiate Programming Contest. @ Chengdu, Sichuan, Jun 2023.
+2. The 14th Sichuan Provincial Collegiate Programming Contest. @ Chengdu, Sichuan, Oct 2022.
+3. Nowcoder Multi-University Training 2021. @ Nowcoder, Aug 2021.
+4. 2021 ECNU Campus Invitational Contest. @ ECNU, Apr 2021.
+5. The 12th Sichuan Provincial Collegiate Programming Contest. @ Yibin Sichuan, Oct 2020.
+6. Codeforces Round #664 (Div. 2 & Div. 1). @ Codeforces, Aug 2020.
+7. 2020 Multi-University Training Contest. @ HDU, Aug 2020.
+8. 2020 ECNU Campus Online Invitational Contest. @ ECNU, May 2020.
+9. 2019 Multi-University Training Contest. @ HDU, Aug 2019.
+10. EOJ Monthly Contest. @ ECNU, 2018-2021.
 
 Teams
 ======
