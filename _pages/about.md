@@ -16,7 +16,7 @@ His research interests lie in big data analytics, especially for the graph/netwo
 Publications
 ======
 1. **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang. **Minimizing the Influence of Misinformation via Vertex Blocking**, *Accepted by ICDE*, 2023. [PDF](/files/paper/%5Bicde23%5DInfluence%20Minimization.pdf).
-2. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou. **VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity**, *Accepted by OSDI*, 2023. [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf).
+2. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou. **VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity**, *OSDI*, pages 377-395, 2023. [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf).
 3. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang. **Quantifying Node Importance over Network Structural Stability**, *Accepted by KDD*, 2023. [PDF](/files/paper/%5Bkdd23%5Dnode-importance.pdf), [Code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability).
 4. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**, *World Wide Web*, pages 679-701, 2022. [PDF](/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf).
 5. **Jiadong Xie**. **Hindering Influence Diffusion of Community**, *SIGMOD Conference*, pages 2518-2520, 2022. [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
@@ -40,7 +40,7 @@ Academic Services
 
 Experience
 ======
-- **Research Assistant**, the School of Computer Science and Engineering, University of New South Wale (UNSW Sydney), Jul. 2022 - current.
+- **Research Assistant**, the School of Computer Science and Engineering, University of New South Wale (UNSW Sydney), Jul. 2022 - Jul. 2023, advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/).
 - **Research Intern**, Microsoft Research Asia, Feb. 2022 - Jun. 2022.
 
 Selected Awards
