@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiadong Xie"
   avatar           : "profile.png"
-  bio              : "Research Assistant at School of Computer Science and Engineering, The University of New South Wales"
-  location         : "Sydney, Australia"
+  bio              : "Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong"
+  location         : "Shatin, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O4Y69-wAAAAJ&hl=zh-CN"
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/Xiejiadong"
 
 
 
