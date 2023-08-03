@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Jiadong Xie is currently a Research Assistant at the School of Computer Science and Engineering, University of New South Wale (advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/)). Previously, he received his B.Eng. degree from East China Normal University in 2022.
+Jiadong Xie is currently a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).
+Previously, he received his B.Eng. degree from East China Normal University in 2022.
 
 His research interests lie in big data analytics, especially for the graph/network and spatial data.
 
