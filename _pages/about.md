@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiadong Xie"
+title: "Jiadong XIE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Jiadong Xie is currently a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).
+Jiadong XIE is currently a Ph.D. Student at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).
 Previously, he received his B.Eng. degree from East China Normal University in 2022.
 
-His research interests lie in big data analytics, especially for the graph/network and spatial data.
+His research interests lie in big data analytics, especially for the vector data and graph/network.
 
 
 Publications
