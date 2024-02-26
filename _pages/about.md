@@ -62,9 +62,9 @@ Teaching
 Academic Services
 ======
 - Program Committee Member
-  - CIKM 2023, WWW 2024.
+  - CIKM 2023, WWW 2024, IEEE Big Data 2024.
 - External Reviewer
-  - VLDB, WWW, KDD.
+  - VLDB, WWW, KDD, ICDE.
 
 
 Experience
