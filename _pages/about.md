@@ -20,30 +20,30 @@ Publications
 **$^\S$ indicates equal contribution.**
 
 1. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
-   **Influence Maximization via Vertex Countering**.
+   <u>Influence Maximization via Vertex Countering</u>.
    *Accepted by Proceedings of the VLDB Endowment (**PVLDB**)*, 2024.
 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
-   **Optimizing Network Resilience via Vertex Anchoring**.
-   *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, 2024. [PDF](/files/paper/%5Bwww24%5Dfollower-maximization.pdf), [Code](https://github.com/Tsyxxxka/Follower-Maximization).
+   <u>Optimizing Network Resilience via Vertex Anchoring</u>.
+   *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, 2024. [PDF](/files/paper/%5Bwww24%5Dfollower-maximization.pdf), [Code](https://github.com/Tsyxxxka/Follower-Maximization).
 3. **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang.
-   **Minimizing the Influence of Misinformation via Vertex Blocking**.
+   <u>Minimizing the Influence of Misinformation via Vertex Blocking.</u>
    *Proceedings of the IEEE International Conference on Data Engineering (**ICDE**)*, pages 789-801, 2023.
    [PDF](/files/paper/%5Bicde23%5DInfluence%20Minimization.pdf).
 4. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou.
-   **VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity**.
+   <u>VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity</u>.
    *USENIX Symposium on Operating Systems Design and Implementation (**OSDI**)*, pages 377-395, 2023.
    [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf), [Code](https://github.com/Catoverflow/VBASE-artifacts).
 5. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang.
-   **Quantifying Node Importance over Network Structural Stability**.
+   <u>Quantifying Node Importance over Network Structural Stability</u>.
    *Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, pages 3217–3228, 2023. [PDF](/files/paper/%5Bkdd23%5Dnode-importance.pdf), [Code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability).
 6. Siyi Teng, **Jiadong Xie$^\star$**, Mingkai Zhang, Kai Wang, Fan Zhang.
-   **IMinimize: A System for Negative Influence Minimization via Vertex Blocking**.
+   <u>IMinimize: A System for Negative Influence Minimization via Vertex Blocking</u>.
    *Proceedings of the ACM Conference on Information and Knowledge Management (**CIKM**)*, pages 5101-5105, 2023.
    [PDF](/files/paper/%5Bcikm23%5DIMinimize--demo.pdf), [Code](https://github.com/Tsyxxxka/IMinimize).
-7. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**.
+7. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. <u>Discovering Key Users for Defending Network Structural Stability</u>.
    *World Wide Web: Internet and Web Information Systems (**WWWJ**)*, pages 679-701, 2022.
    [PDF](/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf).
-8. **Jiadong Xie**. **Hindering Influence Diffusion of Community**.
+8. **Jiadong Xie**. <u>Hindering Influence Diffusion of Community</u>.
    *Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2518-2520, 2022.
    [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
 
