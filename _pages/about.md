@@ -57,14 +57,15 @@ Teaching
   - Practice of Programming @ COMS0031131043, ECNU, 2022 Spring.
 - **Instructor** of Youth Algorithm Training Team @ Shanghai Computer Trade Association (SCTA), 2021 Fall.
 - **Captain** of ECNU XCPC(ICPC/CCPC) Training Team @ ECNU, Jul. 2019 - Jul. 2022, [More](/competition/).
+- **Invited Lecturer** of Leetcode *Dynamic Programming* Series Course. [DP Basics](https://leetcode.cn/leetbook/detail/lc-class-dynamic-programming-basic/), [Knapsack Problems](https://leetcode.cn/leetbook/detail/lc-class-knapsack-problem/).
 
 
 Academic Services
 ======
 - Program Committee Member
-  - CIKM 2023, WWW 2024, IEEE Big Data 2024.
+  - CIKM 2023/2024, WWW 2024, IEEE Big Data 2024.
 - External Reviewer
-  - VLDB, WWW, KDD, ICDE.
+  - VLDB, WWW, KDD, ICDE, VLDBJ, TODS, etc.
 
 
 Experience
