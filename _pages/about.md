@@ -32,7 +32,7 @@ Publications
 4. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou.
    <u>VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity</u>.
    *USENIX Symposium on Operating Systems Design and Implementation (**OSDI**)*, pages 377-395, 2023.
-   [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf), [Code](https://github.com/Catoverflow/VBASE-artifacts).
+   [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf), [Code](https://github.com/Catoverflow/VBASE-artifacts), [Video](https://youtu.be/KxvUGkyD22k).
 5. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang.
    <u>Quantifying Node Importance over Network Structural Stability</u>.
    *Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, pages 3217–3228, 2023. [PDF](/files/paper/%5Bkdd23%5Dnode-importance.pdf), [Code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability).
