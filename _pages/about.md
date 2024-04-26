@@ -21,7 +21,7 @@ Publications
 
 1. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
    <u>Influence Maximization via Vertex Countering</u>.
-   *Accepted by Proceedings of the VLDB Endowment (**PVLDB**)*, 2024.
+   *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 1297-1309, 2024. [PDF](https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf).
 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
    *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, 2024. [PDF](/files/paper/%5Bwww24%5Dfollower-maximization.pdf), [Code](https://github.com/Tsyxxxka/Follower-Maximization), [Video](https://www.youtube.com/watch?v=FidHoFm8uOE).
