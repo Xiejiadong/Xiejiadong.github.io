@@ -75,6 +75,7 @@ Experience
 
 Selected Awards
 ======
+- CUHK Vice-Chancellor’s PhD Scholarship @ CUHK, 2023, 2024.
 - Undergraduate Student Research Competition Second Place @ [SIGMOD](/files/awards/Sigmod2022-certificate.pdf), 2022.
 - Outstanding Undergraduate Thesis @ ECNU, 2022.
 - Outstanding Graduate of Shanghai @ Shanghai, 2022.
