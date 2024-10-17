@@ -53,7 +53,7 @@ Teaching
 
 - **Teaching Assistant**
   - Fundamentals in Information Systems @ SEEM3550, CUHK, 2024 Spring.
-  - Advanced Database Technologies @ FTEC4001, CUHK, 2023 Fall.
+  - Advanced Database Technologies @ FTEC4001, CUHK, 2023, 2024 Fall.
   - Practice of Programming @ COMS0031131043, ECNU, 2022 Spring.
 - **Instructor** of Youth Algorithm Training Team @ Shanghai Computer Trade Association (SCTA), 2021 Fall.
 - **Captain** of ECNU XCPC(ICPC/CCPC) Training Team @ ECNU, Jul. 2019 - Jul. 2022, [More](/competition/).
@@ -63,9 +63,9 @@ Teaching
 Academic Services
 ======
 - Program Committee Member
-  - CIKM 2023/2024, WWW 2024, IEEE Big Data 2024.
+  - WWW 2024/2025, CIKM 2023/2024, IEEE Big Data 2024.
 - External Reviewer
-  - VLDB, WWW, KDD, ICDE, VLDBJ, TODS, etc.
+  - VLDB, KDD, ICDE, VLDBJ, TODS, etc.
 
 
 Experience
