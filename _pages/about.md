@@ -50,7 +50,7 @@ Publications
    *World Wide Web: Internet and Web Information Systems (**WWWJ**)*, pages 679-701, 2022.
    [PDF](/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf).
 10. **Jiadong Xie**. <u>Hindering Influence Diffusion of Community</u>.
-   *Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2518-2520, 2022.
+   *Proceedings of the ACM on Management of Data (**SIGMOD**)*, pages 2518-2520, 2022.
    [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
 
 
