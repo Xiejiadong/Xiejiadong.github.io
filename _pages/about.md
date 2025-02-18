@@ -24,13 +24,13 @@ Publications
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2025.
 2. Shuo Yang$^\S$, **Jiadong Xie$^\S$**, Yingfan Liu, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui.
    <u>Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search</u>.
-   *Proceedings of the VLDB Endowment (**PVLDB**)*, to appear, 2025.
+   *Proceedings of the VLDB Endowment (**PVLDB**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2410.01231).
 3. YuAng Chen, **Jiadong Xie**, Siyi Teng, Wenqi Zeng, Jeffrey Xu Yu.
    <u>Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores</u>.
    *Proceedings of the ACM European Conference on Computer Systems (**EuroSys**)*, to appear, 2025.
 4. **Jiadong Xie**, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang.
    <u>Influence Minimization via Blocking Strategies</u>.
-   *INFORMS Journal on Computing (**JOC**)*, to appear, 2025.
+   *INFORMS Journal on Computing (**JOC**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2312.17488).
 5. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
    <u>Influence Maximization via Vertex Countering</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 1297-1309, 2024. [PDF](https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf).
