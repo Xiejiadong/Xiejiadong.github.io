@@ -30,10 +30,10 @@ Publications
    *Proceedings of the VLDB Endowment (**PVLDB**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2410.01231).
 4. YuAng Chen, **Jiadong Xie**, Siyi Teng, Wenqi Zeng, Jeffrey Xu Yu.
    <u>Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores</u>.
-   *Proceedings of the ACM European Conference on Computer Systems (**EuroSys**)*, pages 803-817, 2025.
+   *Proceedings of the ACM European Conference on Computer Systems (**EuroSys**)*, pages 803-817, 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3689031.3717460).
 5. Yingfan Liu, Yandi Zhang, **Jiadong Xie**, Hui Li, Jeffrey Xu Yu, Jiangtao Cui.
    <u>Privacy-Preserving Approximate Nearest Neighbor Search on High-Dimensional Data</u>.
-   *Proceedings of the IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2025.
+   *Proceedings of the IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2025. [PDF](https://csdl-downloads.ieeecomputer.org/proceedings/icde/2025/3603/00/360300d017.pdf?Expires=1747199468&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2ljZGUvMjAyNS8zNjAzLzAwLzM2MDMwMGQwMTcucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ3MTk5NDY4fX19XX0_&Signature=dr1B5mvphsAsxqSwFFjqHakOOIuvALe3HqLoWHbh24lEc0o8DdW47q73bO8RWwIFfNgo5M5ijZ2JXkeh3CVG54uh-PWESqP1ubIzWPqO6~GbxSsePbnsFbQf8659PBxNfBIY8~635otUo~iDmlcPu4ix83sG0QsPQgCc~hshj5sHwahcsQ3Ss4rc5xjUCXkmzeli4~8JHG9RI49TxQhdG76AVcuqvftuwU~4QIdi4OqOMSMJHXkkRkPQ7jzGqXF0Dh~jBDJ8KbTbY6mmtiPDKSF8o2B5bVCLPkGylMujwuKlB-So9E1Ho3uorJDFxFm0stp-r9IjNn-Minnloq7sAA__&Key-Pair-Id=K12PMWTCQBDMDT).
 6. **Jiadong Xie**, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang.
    <u>Influence Minimization via Blocking Strategies</u>.
    *INFORMS Journal on Computing (**JOC**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2312.17488).
