@@ -24,7 +24,7 @@ Publications
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2025.
 2. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Graph Based K-Nearest Neighbor Search Revisited</u>.
-   *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025.
+   *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3736716).
 3. Shuo Yang$^\S$, **Jiadong Xie$^\S$**, Yingfan Liu, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui.
    <u>Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2410.01231).
@@ -68,7 +68,7 @@ Publications
 Academic Services
 ======
 - Program Committee Member
-  - WWW 2024/2025, CIKM 2023/2024/2025, IEEE Big Data 2024.
+  - WWW 2024/2025, NeurIPS 2025, CIKM 2023/2024/2025, IEEE Big Data 2024.
 - External Reviewer
   - VLDB, KDD, ICDE, VLDBJ, TODS, etc.
 
