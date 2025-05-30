@@ -68,7 +68,7 @@ Publications
 Academic Services
 ======
 - Program Committee Member
-  - WWW 2024/2025, NeurIPS 2025, CIKM 2023/2024/2025, IEEE Big Data 2024.
+  - WWW 2024/2025, NeurIPS 2025, ICDM 2025, CIKM 2023/2024/2025, IEEE Big Data 2024.
 - External Reviewer
   - VLDB, KDD, ICDE, VLDBJ, TODS, etc.
 
