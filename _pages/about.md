@@ -21,7 +21,7 @@ Publications
 
 1. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Fast Approximate Similarity Join in Vector Databases</u>.
-   *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2025.
+   *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2025. [PDF](/files/paper/%5Bsigmod25%5Dvector_join.pdf).
 2. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Graph Based K-Nearest Neighbor Search Revisited</u>.
    *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3736716).
