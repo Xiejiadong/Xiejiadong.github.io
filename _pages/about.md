@@ -19,49 +19,52 @@ Publications
 **$^\star$ indicates corresponding author.**
 **$^\S$ indicates equal contribution.**
 
-1. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
+1. **Jiadong Xie**, Jeffrey Xu Yu, Siyi Teng, Yingfan Liu.
+   <u>Beyond Vector Search: Querying With and Without Predicates</u>.
+   *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2026.
+2. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Fast Approximate Similarity Join in Vector Databases</u>.
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, to appear, 2025. [PDF](/files/paper/%5Bsigmod25%5Dvector_join.pdf).
-2. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
+3. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Graph Based K-Nearest Neighbor Search Revisited</u>.
    *ACM Transactions on Database Systems (**TODS**)*, to appear, 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3736716).
-3. Shuo Yang$^\S$, **Jiadong Xie$^\S$**, Yingfan Liu, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui.
+4. Shuo Yang$^\S$, **Jiadong Xie$^\S$**, Yingfan Liu, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui.
    <u>Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2410.01231).
-4. YuAng Chen, **Jiadong Xie**, Siyi Teng, Wenqi Zeng, Jeffrey Xu Yu.
+5. YuAng Chen, **Jiadong Xie**, Siyi Teng, Wenqi Zeng, Jeffrey Xu Yu.
    <u>Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores</u>.
    *Proceedings of the ACM European Conference on Computer Systems (**EuroSys**)*, pages 803-817, 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3689031.3717460).
-5. Yingfan Liu, Yandi Zhang, **Jiadong Xie**, Hui Li, Jeffrey Xu Yu, Jiangtao Cui.
+6. Yingfan Liu, Yandi Zhang, **Jiadong Xie**, Hui Li, Jeffrey Xu Yu, Jiangtao Cui.
    <u>Privacy-Preserving Approximate Nearest Neighbor Search on High-Dimensional Data</u>.
    *Proceedings of the IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2025. [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d017/26FZBowtboI).
-6. **Jiadong Xie**, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang.
+7. **Jiadong Xie**, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang.
    <u>Influence Minimization via Blocking Strategies</u>.
    *INFORMS Journal on Computing (**JOC**)*, to appear, 2025. [PDF](https://arxiv.org/pdf/2312.17488).
-7. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
+8. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
    <u>Influence Maximization via Vertex Countering</u>.
    *Proceedings of the VLDB Endowment (**PVLDB**)*, pages 1297-1309, 2024. [PDF](https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf).
-8. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
+9.  Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
    *Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, pages 606-617, 2024. [PDF](/files/paper/%5Bwww24%5Dfollower-maximization.pdf), [Code](https://github.com/Tsyxxxka/Follower-Maximization), [Video](https://www.youtube.com/watch?v=FidHoFm8uOE).
-9.  **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang.
+10. **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang.
    <u>Minimizing the Influence of Misinformation via Vertex Blocking.</u>
    *Proceedings of the IEEE International Conference on Data Engineering (**ICDE**)*, pages 789-801, 2023.
    [PDF](/files/paper/%5Bicde23%5DInfluence%20Minimization.pdf).
-10. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou.
+11. Qianxi Zhang, Shuotao Xu, Qi Chen, Guoxin Sui, **Jiadong Xie**, Zhizhen Cai, Yaoqi Chen, Yinxuan He, Yuqing Yang, Fan Yang, Mao Yang, Lidong Zhou.
    <u>VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity</u>.
    *USENIX Symposium on Operating Systems Design and Implementation (**OSDI**)*, pages 377-395, 2023.
    [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf), [Code](https://github.com/Catoverflow/VBASE-artifacts), [Video](https://youtu.be/KxvUGkyD22k).
-11. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang.
+12. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang.
    <u>Quantifying Node Importance over Network Structural Stability</u>.
    *Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, pages 3217–3228, 2023. [PDF](/files/paper/%5Bkdd23%5Dnode-importance.pdf), [Code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability).
-12. Siyi Teng, **Jiadong Xie$^\star$**, Mingkai Zhang, Kai Wang, Fan Zhang.
+13. Siyi Teng, **Jiadong Xie$^\star$**, Mingkai Zhang, Kai Wang, Fan Zhang.
    <u>IMinimize: A System for Negative Influence Minimization via Vertex Blocking</u>.
    *Proceedings of the ACM Conference on Information and Knowledge Management (**CIKM**)*, pages 5101-5105, 2023.
    [PDF](/files/paper/%5Bcikm23%5DIMinimize--demo.pdf), [Code](https://github.com/Tsyxxxka/IMinimize).
-13. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. <u>Discovering Key Users for Defending Network Structural Stability</u>.
+14. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. <u>Discovering Key Users for Defending Network Structural Stability</u>.
    *World Wide Web: Internet and Web Information Systems (**WWWJ**)*, pages 679-701, 2022.
    [PDF](/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf).
-14. **Jiadong Xie**. <u>Hindering Influence Diffusion of Community</u>.
+15. **Jiadong Xie**. <u>Hindering Influence Diffusion of Community</u>.
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, pages 2518-2520, 2022.
    [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
 
@@ -84,6 +87,7 @@ Teaching
 ======
 
 - **Teaching Assistant**
+  - Open Systems and Electronic Commerce @ SEEM5770A/ECLT5840A, CUHK, 2025 Fall.
   - Fundamentals in Information Systems @ SEEM3550, CUHK, 2024, 2025 Spring.
   - Advanced Database Technologies @ FTEC4001, CUHK, 2023, 2024 Fall.
   - Practice of Programming @ COMS0031131043, ECNU, 2022 Spring.
