@@ -70,9 +70,10 @@ Publications
 
 Academic Services
 ======
-- Program Committee Member
-  - 2025: WWW, NeurIPS, ICDM, CIKM, IEEE Big Data.
-  - 2024: WWW, CIKM, IEEE Big Data.
+- Program Committee Member / Reviewer
+  - 2026: TheWebConf.
+  - 2025: TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data.
+  - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
 - External Reviewer
   - VLDB, KDD, ICDE, VLDBJ, TODS, etc.
@@ -102,7 +103,7 @@ Experience
 
 Selected Awards
 ======
-- CUHK Vice-Chancellor’s PhD Scholarship @ CUHK, 2023, 2024.
+- CUHK Vice-Chancellor’s PhD Scholarship @ CUHK, 2023, 2024, 2025.
 - Undergraduate Student Research Competition Second Place @ [SIGMOD](/files/awards/Sigmod2022-certificate.pdf), 2022.
 - Outstanding Undergraduate Thesis @ ECNU, 2022.
 - Outstanding Graduate of Shanghai @ Shanghai, 2022.
