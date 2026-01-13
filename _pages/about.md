@@ -19,12 +19,8 @@ Publications
 **$^\star$ indicates corresponding author.**
 **$^\S$ indicates equal contribution.**
 
-1. **Jiadong Xie**, Jeffrey Xu Yu, Siyi Teng, Yingfan Liu.
-   <u>Beyond Vector Search: Querying With and Without Predicates</u>.
-   *Proceedings of the ACM on Management of Data (**SIGMOD**)*, 2026. [PDF](https://dl.acm.org/doi/10.1145/3769765).
-2. **Jiadong Xie**, Jeffrey Liang, Siyi Teng, Jeffrey Xu Yu, Yingfan Liu. 
-   <u>Breaking the Single-Reference-Vector Barrier in Approximate Nearest Neighbor Search</u>.
-   *Proceedings of the ACM Web Conference (**TheWebConf**)*, 2026.
+1. **Jiadong Xie**, Jeffrey Xu Yu, Siyi Teng, Yingfan Liu. <u>Beyond Vector Search: Querying With and Without Predicates</u>. *Proceedings of the ACM on Management of Data (**SIGMOD**)*, 2026. [PDF](https://dl.acm.org/doi/10.1145/3769765).
+2. **Jiadong Xie**, Jeffrey Liang, Siyi Teng, Jeffrey Xu Yu, Yingfan Liu. <u>Breaking the Single-Reference-Vector Barrier in Approximate Nearest Neighbor Search</u>. *Proceedings of the ACM Web Conference (**TheWebConf**)*, 2026.
 3. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Fast Approximate Similarity Join in Vector Databases</u>.
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, 2025. [PDF](/files/paper/%5Bsigmod25%5Dvector_join.pdf).
@@ -57,11 +53,10 @@ Publications
    <u>VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity</u>.
    *USENIX Symposium on Operating Systems Design and Implementation (**OSDI**)*, 2023.
    [PDF](/files/paper/%5Bosdi23%5Dmulti-topk.pdf), [Code](https://github.com/Catoverflow/VBASE-artifacts), [Video](https://youtu.be/KxvUGkyD22k).
-13. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang.
-   <u>Quantifying Node Importance over Network Structural Stability</u>.
+13. Fan Zhang, Qingyuan Linghu, **Jiadong Xie**, Kai Wang, Xuemin Lin, Wenjie Zhang
+    <u>Quantifying Node Importance over Network Structural Stability</u>.
    *Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2023. [PDF](/files/paper/%5Bkdd23%5Dnode-importance.pdf), [Code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability).
-14. Siyi Teng, **Jiadong Xie$^\star$**, Mingkai Zhang, Kai Wang, Fan Zhang.
-   <u>IMinimize: A System for Negative Influence Minimization via Vertex Blocking</u>.
+14. Siyi Teng, **Jiadong Xie$^\star$**, Mingkai Zhang, Kai Wang, Fan Zhang. <u>IMinimize: A System for Negative Influence Minimization via Vertex Blocking</u>.
    *Proceedings of the ACM Conference on Information and Knowledge Management (**CIKM**)*, 2023.
    [PDF](/files/paper/%5Bcikm23%5DIMinimize--demo.pdf), [Code](https://github.com/Tsyxxxka/IMinimize).
 15. Fan Zhang, **Jiadong Xie**, Kai Wang, Shiyu Yang, Yu Jiang. <u>Discovering Key Users for Defending Network Structural Stability</u>.
