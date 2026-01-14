@@ -86,8 +86,9 @@ Teaching
 ======
 
 - **Teaching Assistant**
+  - *TA Coordinator*, Fundamentals in Information Systems @ SEEM3550, CUHK, 2026 Spring.
   - Open Systems and Electronic Commerce @ SEEM5770A/ECLT5840A, CUHK, 2025 Fall.
-  - Fundamentals in Information Systems @ SEEM3550, CUHK, 2024, 2025 Spring.
+  - Fundamentals in Information Systems @ SEEM3550B, CUHK, 2024, 2025 Spring.
   - Advanced Database Technologies @ FTEC4001, CUHK, 2023, 2024 Fall.
   - Practice of Programming @ COMS0031131043, ECNU, 2022 Spring.
 - **Instructor** of Youth Algorithm Training Team @ Shanghai Computer Trade Association (SCTA), 2021 Fall.
