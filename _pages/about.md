@@ -20,7 +20,7 @@ Publications
 **$^\S$ indicates equal contribution.**
 
 1. **Jiadong Xie**, Jeffrey Xu Yu, Siyi Teng, Yingfan Liu. <u>Beyond Vector Search: Querying With and Without Predicates</u>. *Proceedings of the ACM on Management of Data (**SIGMOD**)*, 2026. [PDF](https://dl.acm.org/doi/10.1145/3769765).
-2. **Jiadong Xie**, Jeffrey Liang, Siyi Teng, Jeffrey Xu Yu, Yingfan Liu. <u>Breaking the Single-Reference-Vector Barrier in Approximate Nearest Neighbor Search</u>. *Proceedings of the ACM Web Conference (**TheWebConf**)*, 2026.
+2. **Jiadong Xie**, Jeffrey Liang, Siyi Teng, Jeffrey Xu Yu, Yingfan Liu. <u>Breaking the Single-Reference-Vector Barrier in Approximate Nearest Neighbor Search</u>. *Proceedings of the ACM Web Conference (**TheWebConf**)*, 2026. [PDF](/files/paper/%5Bwww26%5Dmulti-vector.pdf).
 3. **Jiadong Xie**, Jeffrey Xu Yu, Yingfan Liu.
    <u>Fast Approximate Similarity Join in Vector Databases</u>.
    *Proceedings of the ACM on Management of Data (**SIGMOD**)*, 2025. [PDF](/files/paper/%5Bsigmod25%5Dvector_join.pdf).
