@@ -109,4 +109,3 @@ Selected Awards
 - The President's Scholarship @ ECNU, 2021.
 - Honors in The ICPC World Finals Contest @ [ICPC](/files/awards/2020-Invitational-PLACE.pdf), 2021.
 - Gold Medals in ICPC&CCPC @ 2018-2022, [More](/competition/).
-- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Zhejiang, 2016/2017.
