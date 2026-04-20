@@ -130,7 +130,7 @@ Publications
     <div class="pub-title">
       <strong>[ICDE'25]</strong> Privacy-Preserving Approximate Nearest Neighbor Search on High-Dimensional Data
       <span class="pub-links">
-        <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d017/26FZBowtboI" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="https://arxiv.org/pdf/2508.10373" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       </span>
     </div>
     <div class="pub-authors">
