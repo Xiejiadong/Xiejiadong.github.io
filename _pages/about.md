@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Jiadong XIE is currently a Ph.D. Candidate at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and [Prof. Hong CHENG](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/).
-Previously, he received his B.Eng. degree from East China Normal University in 2022.
+I am currently a Ph.D. Candidate at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and [Prof. Hong CHENG](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/).
+Previously, I received my B.Eng. degree from East China Normal University in 2022, where I did my undergraduate thesis under the supervision of [Prof. Xuemin Lin](https://xueminlin.github.io/).
 
-His research interests lie in big data management and analytics, with a particular focus on vector data and graphs.
+My research interests lie in big data management and analytics, with a particular focus on vector data and graphs.
 
 
 Publications
