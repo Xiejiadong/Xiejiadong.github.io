@@ -28,8 +28,23 @@ Publications
 .pub-authors { margin: 0.08em 0 0 0; line-height: 1.45; color: #7a7a7a; }
 .pub-authors .me { color: #111; font-weight: 700; }
 .pub-venue { margin: 0.08em 0 0 0; line-height: 1.4; color: #555; }
-.pub-links a { margin-right: 0.45em; }
 .pub-mark { font-size: 0.58em; vertical-align: super; line-height: 0; position: relative; top: -0.05em; }
+
+.pub-links {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.12em;
+  margin-left: 0.2em;
+  white-space: nowrap;
+}
+.pub-links a {
+  text-decoration: none !important;
+  margin: 0;
+}
+.pub-links i {
+  font-size: 0.92em;
+  vertical-align: middle;
+}
 </style>
 
 ## Conference Papers
@@ -39,7 +54,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[SIGMOD'26]</strong> Beyond Vector Search: Querying With and Without Predicates
-      <span class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3769765">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://dl.acm.org/doi/10.1145/3769765" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Jeffrey Xu Yu, Siyi Teng, Yingfan Liu
@@ -52,7 +69,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[TheWebConf'26]</strong> Breaking the Single-Reference-Vector Barrier in Approximate Nearest Neighbor Search
-      <span class="pub-links">[<a href="/files/paper/%5Bwww26%5Dmulti-vector.pdf">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="/files/paper/%5Bwww26%5Dmulti-vector.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Jeffrey Liang, Siyi Teng, Jeffrey Xu Yu, Yingfan Liu
@@ -65,7 +84,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[SIGMOD'25]</strong> Fast Approximate Similarity Join in Vector Databases
-      <span class="pub-links">[<a href="/files/paper/%5Bsigmod25%5Dvector_join.pdf">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="/files/paper/%5Bsigmod25%5Dvector_join.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Jeffrey Xu Yu, Yingfan Liu
@@ -78,7 +99,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[PVLDB'25]</strong> Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search
-      <span class="pub-links">[<a href="https://arxiv.org/pdf/2410.01231">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2410.01231" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       Shuo Yang<sup class="pub-mark">§</sup>, <span class="me">Jiadong Xie<sup class="pub-mark">§</sup></span>, Yingfan Liu, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui
@@ -91,7 +114,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[EuroSys'25]</strong> Groot: Graph-Centric Row Reordering with Tree for Sparse Matrix Multiplications on Tensor Cores
-      <span class="pub-links">[<a href="https://dl.acm.org/doi/pdf/10.1145/3689031.3717460">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3689031.3717460" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       YuAng Chen, <span class="me">Jiadong Xie</span>, Siyi Teng, Wenqi Zeng, Jeffrey Xu Yu
@@ -104,7 +129,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[ICDE'25]</strong> Privacy-Preserving Approximate Nearest Neighbor Search on High-Dimensional Data
-      <span class="pub-links">[<a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d017/26FZBowtboI">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300d017/26FZBowtboI" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       Yingfan Liu, Yandi Zhang, <span class="me">Jiadong Xie</span>, Hui Li, Jeffrey Xu Yu, Jiangtao Cui
@@ -117,7 +144,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[PVLDB'24]</strong> Influence Maximization via Vertex Countering
-      <span class="pub-links">[<a href="https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian
@@ -130,10 +159,16 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[TheWebConf'24]</strong> Optimizing Network Resilience via Vertex Anchoring
-      <span class="pub-links">
-        [<a href="/files/paper/%5Bwww24%5Dfollower-maximization.pdf">PDF</a>]
-        [<a href="https://github.com/Tsyxxxka/Follower-Maximization">Code</a>]
-        [<a href="https://www.youtube.com/watch?v=FidHoFm8uOE">Video</a>]
+    <span class="pub-links">
+      <a href="/files/paper/%5Bwww24%5Dfollower-maximization.pdf" title="PDF">
+        <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i>
+      </a>
+      <a href="https://github.com/Tsyxxxka/Follower-Maximization" title="Code">
+        <i class="fab fa-fw fa-github zoom" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.youtube.com/watch?v=FidHoFm8uOE" title="Video">
+        <i class="fas fa-fw fa-video zoom" aria-hidden="true"></i>
+      </a>
       </span>
     </div>
     <div class="pub-authors">
@@ -147,7 +182,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[ICDE'23]</strong> Minimizing the Influence of Misinformation via Vertex Blocking
-      <span class="pub-links">[<a href="/files/paper/%5Bicde23%5DInfluence%20Minimization.pdf">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="/files/paper/%5Bicde23%5DInfluence%20Minimization.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang
@@ -161,9 +198,9 @@ Publications
     <div class="pub-title">
       <strong>[OSDI'23]</strong> VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity
       <span class="pub-links">
-        [<a href="/files/paper/%5Bosdi23%5Dmulti-topk.pdf">PDF</a>]
-        [<a href="https://github.com/Catoverflow/VBASE-artifacts">Code</a>]
-        [<a href="https://youtu.be/KxvUGkyD22k">Video</a>]
+        <a href="/files/paper/%5Bosdi23%5Dmulti-topk.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="https://github.com/Catoverflow/VBASE-artifacts" title="Code"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+        <a href="https://youtu.be/KxvUGkyD22k" title="Video"><i class="fas fa-fw fa-video zoom" aria-hidden="true"></i></a>
       </span>
     </div>
     <div class="pub-authors">
@@ -178,8 +215,8 @@ Publications
     <div class="pub-title">
       <strong>[KDD'23]</strong> Quantifying Node Importance over Network Structural Stability
       <span class="pub-links">
-        [<a href="/files/paper/%5Bkdd23%5Dnode-importance.pdf">PDF</a>]
-        [<a href="https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability">Code</a>]
+        <a href="/files/paper/%5Bkdd23%5Dnode-importance.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability" title="Code"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       </span>
     </div>
     <div class="pub-authors">
@@ -198,7 +235,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[TODS'25]</strong> Graph Based K-Nearest Neighbor Search Revisited
-      <span class="pub-links">[<a href="https://dl.acm.org/doi/pdf/10.1145/3736716">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3736716" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Jeffrey Xu Yu, Yingfan Liu
@@ -211,7 +250,9 @@ Publications
    <div class="pub-item">
     <div class="pub-title">
       <strong>[JOC'25]</strong> Influence Minimization via Blocking Strategies
-      <span class="pub-links">[<a href="https://arxiv.org/pdf/2312.17488">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2312.17488" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Fan Zhang, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang
@@ -224,7 +265,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[WWWJ'22]</strong> Discovering Key Users for Defending Network Structural Stability
-      <span class="pub-links">[<a href="/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf">PDF</a>]</span>
+      <span class="pub-links">
+        <a href="/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       Fan Zhang, <span class="me">Jiadong Xie</span>, Kai Wang, Shiyu Yang, Yu Jiang
@@ -235,6 +278,23 @@ Publications
   </div>
 </div>
 
+## Preprint
+
+<div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      A Survey on Query Processing in Vector Databases
+      <span class="pub-links">
+        <a href="/files/paper/vector_survey.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors">
+      <span class="me">Jiadong Xie</span>, Yingfan Liu, Jeffrey Xu Yu
+    </div>
+  </div>
+</div>
+
+
 ## Short/Demo Papers
 
 <div class="pub-list">
@@ -242,8 +302,8 @@ Publications
     <div class="pub-title">
       <strong>[CIKM'23]</strong> IMinimize: A System for Negative Influence Minimization via Vertex Blocking
       <span class="pub-links">
-        [<a href="/files/paper/%5Bcikm23%5DIMinimize--demo.pdf">PDF</a>]
-        [<a href="https://github.com/Tsyxxxka/IMinimize">Code</a>]
+        <a href="/files/paper/%5Bcikm23%5DIMinimize--demo.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="https://github.com/Tsyxxxka/IMinimize" title="Code"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       </span>
     </div>
     <div class="pub-authors">
@@ -258,9 +318,9 @@ Publications
     <div class="pub-title">
       <strong>[SIGMOD'22]</strong> Hindering Influence Diffusion of Community
       <span class="pub-links">
-        [<a href="/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf">PDF</a>]
-        [<a href="/files/attachments/Jiadong_Xie_Poster.pdf">Poster</a>]
-        [<a href="/files/attachments/Jiadong_Xie_pre_video.mp4">Video</a>]
+        <a href="/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="/files/attachments/Jiadong_Xie_Poster.pdf" title="Poster"><i class="fas fa-fw fa-file-image zoom" aria-hidden="true"></i></a>
+        <a href="/files/attachments/Jiadong_Xie_pre_video.mp4" title="Video"><i class="fas fa-fw fa-video zoom" aria-hidden="true"></i></a>
       </span>
     </div>
     <div class="pub-authors">
