@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. Candidate at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and [Prof. Hong CHENG](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/).
-Previously, I received my B.Eng. degree from East China Normal University in 2022, where I did my undergraduate thesis under the supervision of [Prof. Xuemin Lin](https://xueminlin.github.io/).
+Previously, I received my B.Eng. degree from East China Normal University in 2022, where I did my undergraduate thesis under the supervision of [Prof. Xuemin LIN](https://xueminlin.github.io/).
 
 My research interests lie in big data management and analytics, with a particular focus on vector data and graphs.
 
@@ -175,7 +175,7 @@ Publications
       Siyi Teng<sup class="pub-mark">§</sup>, <span class="me">Jiadong Xie<sup class="pub-mark">§</sup></span>, Fan Zhang, Can Lu, Juntao Fang, Kai Wang
     </div>
     <div class="pub-venue">
-      Proceedings of the ACM Web Conference (TheWebConf), Oral, 2024
+      Proceedings of the ACM Web Conference (TheWebConf), <strong>Oral</strong>, 2024
     </div>
   </div>
 
