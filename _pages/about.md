@@ -335,7 +335,7 @@ Publications
 Academic Services
 ======
 - **Conference** Program Committee Member / Reviewer
-  - 2026: TheWebConf, NeurIPS, KDD, CIKM, IEEE Big Data.
+  - 2026: TheWebConf, NeurIPS, KDD, ICDM, CIKM, IEEE Big Data.
   - 2025: TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data.
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
