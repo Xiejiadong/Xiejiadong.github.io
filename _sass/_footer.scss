@@ -90,3 +90,23 @@
     }
   }
 }
+
+.footer-visitor-map {
+  text-align: center;
+  margin-top: 0.5em;
+
+  a {
+    display: inline-block;
+    padding: 8px 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+
+  img {
+    display: block;
+    max-width: min(100%, 420px);
+    height: auto;
+    border: 0;
+  }
+}
