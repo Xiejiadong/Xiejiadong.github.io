@@ -7,9 +7,9 @@ redirect_from:
   - /competition
 ---
 
-Jiadong Xie joined the International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) during his undergraduate degree (2018 - 2022). He was also the captain of ECNU XCPC(ICPC/CCPC) Training Team (Jul. 2019 - Jul. 2022), helping for organizing daily training, teaching and selection.
+I joined the International Collegiate Programming Contest (ICPC) and China Collegiate Programming Contest (CCPC) during my undergraduate degree (2018 - 2022). I was the captain of the ECNU XCPC (ICPC/CCPC) Training Team (Jul. 2019 - Jul. 2022), helping to organize daily training, teach, and conduct selection.
 
-Jiadong Xie is the finalist of **ICPC World Final 2020** and **ICPC World Final 2021**.
+I am a finalist in the **ICPC World Final 2020** and the **ICPC World Final 2021**.
 
 [Competitive Programming Hall Of Fame](https://cphof.org/profile/codeforces:Xiejiadong), [MEET THE TEAMS OF 2020](https://zh-cn.facebook.com/ICPCNews/posts/2959235054116140/).
 
