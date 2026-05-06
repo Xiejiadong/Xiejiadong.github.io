@@ -93,20 +93,30 @@
 
 .footer-visitor-map {
   text-align: center;
-  margin-top: 0.5em;
+  margin-top: 0.75em;
+  margin-bottom: 0.4em;
+}
 
-  a {
-    display: inline-block;
-    padding: 8px 10px;
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-  }
+.footer-visitor-map iframe,
+.footer-visitor-map img,
+.footer-visitor-map canvas {
+  display: inline-block;
+  max-width: 100%;
+}
 
-  img {
-    display: block;
-    max-width: min(100%, 420px);
-    height: auto;
-    border: 0;
-  }
+.footer-visitor-history {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 0.35em;
+}
+
+.footer-visitor-history a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.footer-visitor-history a:hover {
+  text-decoration: underline;
+  opacity: 1;
 }

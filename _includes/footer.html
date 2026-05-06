@@ -2,17 +2,26 @@
 
 <!-- <script src="https://efreecode.com/js.js" id="eXF-xiejd-0" async defer></script> -->
 
-{% include base_path %}
-
+<!-- Visitor map powered by Map My Visitors -->
 <div class="footer-visitor-map">
-  <a href="https://extremetracking.com/free?login=xiejd" target="_blank" rel="noopener noreferrer nofollow">
-    <img
-      src="https://extremetracking.com/opentemps9/xiejd_3bc8d2efdad90d1ff65d57f682b69f9d.png"
-      alt="Visitor map"
-      loading="lazy"
-    >
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=0fLFhVUo_NwdYn7Bxkf3b5mVEK5UCitEC2XJY1eqdro&cl=ffffff&w=a">
+  </script>
+</div>
+
+<!-- Historical visitor records on eXTReMe Tracking -->
+<div class="footer-visitor-history">
+  <a href="https://extremetracking.com/free?login=xiejd"
+     target="_blank"
+     rel="noopener noreferrer nofollow">
+    Historical visitor records
   </a>
 </div>
+
+<!-- Keep eXTReMe Tracking active for preserving existing statistics -->
+<script src="https://efreecode.com/js.js" id="eXF-xiejd-0" async defer></script>
 
 <!-- <div class="page__footer-follow">
   <ul class="social-icons">
@@ -33,6 +42,6 @@
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
-</div>
+</div> -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
