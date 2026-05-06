@@ -93,8 +93,16 @@
 
 .footer-visitor-map {
   text-align: center;
-  margin-top: 0.75em;
-  margin-bottom: 0.4em;
+  margin-top: 0.5em;
+  margin-bottom: 0.35em;
+  overflow: hidden;
+}
+
+.footer-visitor-map-inner {
+  display: inline-block;
+  transform: scale(0.65);
+  transform-origin: top center;
+  margin-bottom: -70px;
 }
 
 .footer-visitor-map iframe,
