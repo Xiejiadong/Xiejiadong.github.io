@@ -83,6 +83,21 @@ Publications
 
   <div class="pub-item">
     <div class="pub-title">
+      <strong>[KDD'26]</strong> Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap
+      <!-- <span class="pub-links">
+        <a href="/files/paper/%5Bwww26%5Dmulti-vector.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span> -->
+    </div>
+    <div class="pub-authors">
+      Yingfan Liu, Tong Wu, <span class="me">Jiadong Xie<sup class="pub-mark">★</sup></span>, Yang Zhao, Jeffrey Xu Yu, Jiangtao Cui
+    </div>
+    <div class="pub-venue">
+      Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2026
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title">
       <strong>[SIGMOD'25]</strong> Fast Approximate Similarity Join in Vector Databases
       <span class="pub-links">
         <a href="/files/paper/%5Bsigmod25%5Dvector_join.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
