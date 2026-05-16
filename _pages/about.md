@@ -89,7 +89,7 @@ Publications
       </span> -->
     </div>
     <div class="pub-authors">
-      Yingfan Liu, Tong Wu, <span class="me">Jiadong Xie<sup class="pub-mark">★</sup></span>, Yang Zhao, Jeffrey Xu Yu, Jiangtao Cui
+      Yingfan Liu, Tong Wu, <span class="me">Jiadong Xie<sup class="pub-mark">★</sup></span>, Yang Zhao, Jeffrey Xu Yu, Jiangtao Cui<sup class="pub-mark">★</sup>
     </div>
     <div class="pub-venue">
       Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2026
