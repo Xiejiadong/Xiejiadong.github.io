@@ -84,9 +84,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[KDD'26]</strong> Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap
-      <!-- <span class="pub-links">
-        <a href="/files/paper/%5Bwww26%5Dmulti-vector.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      </span> -->
+      <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2605.26474" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       Yingfan Liu, Tong Wu, <span class="me">Jiadong Xie<sup class="pub-mark">★</sup></span>, Yang Zhao, Jeffrey Xu Yu, Jiangtao Cui<sup class="pub-mark">★</sup>
