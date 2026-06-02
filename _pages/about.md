@@ -293,12 +293,12 @@ Publications
   </div>
 </div>
 
-## Tutorial
+## Tutorials
 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <strong>[PVLDB'26]</strong> Advances of Query Processing in Vector Databases
+      <strong>[VLDB'26]</strong> Advances of Query Processing in Vector Databases
       <!-- <span class="pub-links">
         <a href="https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       </span> -->
@@ -307,7 +307,7 @@ Publications
       <span class="me">Jiadong Xie</span>, Yingfan Liu, Jeffrey Xu Yu
     </div>
     <div class="pub-venue">
-      Proceedings of the VLDB Endowment (PVLDB), 2026
+      International Conference on Very Large Data Bases (VLDB), 2026
     </div>
   </div>
 </div>
