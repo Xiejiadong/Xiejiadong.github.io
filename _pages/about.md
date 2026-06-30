@@ -45,6 +45,26 @@ Publications
   font-size: 0.92em;
   vertical-align: middle;
 }
+
+.pub-badge-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08em 0.42em;
+  border: 1px solid #b8c7e6;
+  border-radius: 999px;
+  background: #f3f7ff;
+  color: #2f5fa8 !important;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.35;
+  text-decoration: none !important;
+  vertical-align: middle;
+}
+
+.pub-badge-link:hover {
+  background: #e8f0ff;
+  color: #17427f !important;
+}
 </style>
 
 ## Conference Papers
@@ -315,9 +335,14 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[VLDB'26]</strong> Advances of Query Processing in Vector Databases
-      <!-- <span class="pub-links">
-        <a href="https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      </span> -->
+      <span class="pub-links">
+        <a href="https://vdb-query-processing.github.io/static/pdfs/vector_tutorial_vldb2026.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
+      <span class="pub-links">
+        <a href="https://vdb-query-processing.github.io/" title="Website" target="_blank" rel="noopener">
+          <i class="fas fa-fw fa-globe zoom" aria-hidden="true"></i>
+        </a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Yingfan Liu, Jeffrey Xu Yu
@@ -394,7 +419,7 @@ Academic Services
   - TODS, TKDE, TKDD.
 
 
-Invited Talks
+Talks
 ======
 - **Proximity Graphs in Approximate Nearest Neighbor Search** @ Guangzhou University, 2025.
 
