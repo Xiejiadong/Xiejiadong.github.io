@@ -270,9 +270,9 @@ Publications
   <div class="pub-item">
     <div class="pub-title">
       <strong>[VLDBJ'26]</strong> Efficient Discovery of Arbitrary Cycles in Large-Scale Networks
-      <!-- <span class="pub-links">
-        <a href="https://dl.acm.org/doi/pdf/10.1145/3736716" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      </span> -->
+      <span class="pub-links">
+        <a href="https://link.springer.com/article/10.1007/s00778-026-00994-4" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       Siyi Teng, Jeffrey Xu Yu, <span class="me">Jiadong Xie</span>
