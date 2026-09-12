@@ -411,8 +411,8 @@ Publications
 Academic Services
 ======
 - **Conference** Program Committee Member / Reviewer
-  - 2027: KDD, DASFAA.
-  - 2026: TheWebConf, NeurIPS, KDD, ICDM, CIKM, IEEE Big Data, WAICA.
+  - 2027: KDD, TheWebConf, WSDM, DASFAA.
+  - 2026: KDD (🏆 [Best Reviewers](https://kdd2026.kdd.org/kdd-best-reviewers/#research)), TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data, WAICA.
   - 2025: TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data.
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
@@ -422,7 +422,8 @@ Academic Services
 
 Talks
 ======
-- **Proximity Graphs in Approximate Nearest Neighbor Search** @ Guangzhou University, 2025.
+* **Advances of Query Processing in Vector Databases** @ VLDB 2026, Boston, USA, Sep. 2026.
+* **Proximity Graphs for Approximate Nearest Neighbor Search** @ Guangzhou University, Guangzhou, China, Mar. 2025.
 
 
 Teaching
