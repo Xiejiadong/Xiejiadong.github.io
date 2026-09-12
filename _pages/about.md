@@ -417,7 +417,7 @@ Academic Services
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
 - **Journal** Reviewer
-  - TODS, TKDE, TKDD.
+  - TODS, TKDE, TON, TKDD.
 
 
 Talks
