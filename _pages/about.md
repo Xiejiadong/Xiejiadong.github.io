@@ -269,6 +269,21 @@ Publications
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
+      <strong>[VLDBJ'26]</strong> Fast Proximity Graph Index Construction for Approximate Nearest Neighbor Search
+      <!-- <span class="pub-links">
+        <a href="https://link.springer.com/article/10.1007/s00778-026-00994-4" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span> -->
+    </div>
+    <div class="pub-authors">
+      <span class="me">Jiadong Xie</span>, Yingfan Liu, Shuo Yang, Jeffrey Xu Yu, Xiyue Gao, Qianru Wang, Yanguo Peng, Jiangtao Cui
+    </div>
+    <div class="pub-venue">
+      The International Journal on Very Large Data Bases (VLDBJ), 2026
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title">
       <strong>[VLDBJ'26]</strong> Efficient Discovery of Arbitrary Cycles in Large-Scale Networks
       <span class="pub-links">
         <a href="https://link.springer.com/article/10.1007/s00778-026-00994-4" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -417,7 +432,7 @@ Academic Services
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
 - **Journal** Reviewer
-  - TODS, TKDE, TON, TKDD.
+  - TODS, TKDE, TON, TKDD, DMKD.
 
 
 Talks
