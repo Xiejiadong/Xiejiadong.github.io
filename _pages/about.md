@@ -431,8 +431,8 @@ Academic Services
   - 2025: TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data.
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
-- **Journal** Reviewer
-  - TODS, TKDE, TON, TKDD, DMKD.
+- Invited **Journal** Reviewer
+  - TODS, TPDS, TKDE, TON, TKDD, DMKD.
 
 
 Talks
