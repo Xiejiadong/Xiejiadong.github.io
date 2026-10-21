@@ -447,7 +447,13 @@ Academic Services
   - 2024: TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
 - Invited **Journal** Reviewer
-  - TODS, TPDS, TKDE, TON, TKDD, DMKD.
+  - ACM Transactions on Database Systems (TODS).
+  - IEEE Transactions on Parallel and Distributed Systems (TPDS).
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE).
+  - IEEE Transactions on Networking (TON).
+  - ACM Transactions on Knowledge Discovery from Data (TKDD).
+  - Data Mining and Knowledge Discovery (DMKD). 
+  - Discover Computing.
 
 
 Talks
