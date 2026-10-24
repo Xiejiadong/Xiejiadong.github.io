@@ -69,4 +69,4 @@ Selected Awards
 - Outstanding Graduate of Shanghai @ Shanghai, 2022.
 - The President's Scholarship @ ECNU, 2021.
 - Honors in The ICPC World Finals Contest @ [ICPC](/files/awards/2020-Invitational-PLACE.pdf), 2021.
-- Gold Medals in ICPC&CCPC @ 2018-2022, [More](/competition/).
+- Gold Medals in ICPC&CCPC @ 2018-2022, [More details](/competition/).
