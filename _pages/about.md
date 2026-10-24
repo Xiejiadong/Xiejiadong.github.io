@@ -11,7 +11,14 @@ redirect_from:
 I am currently a Ph.D. Candidate at the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Jeffrey Xu YU](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/) and [Prof. Hong CHENG](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/).
 Previously, I received my B.Eng. degree from East China Normal University in 2022, where I did my undergraduate thesis under the supervision of [Prof. Xuemin LIN](https://xueminlin.github.io/).
 
-My research interests lie in big data management and analytics, with a particular focus on vector data and graphs.
+My research interests lie in **data management and query processing**, particularly **vector databases and large-scale graphs**. My work spans two broad directions:
+
+- **Vector Database Query Processing.** I study both fundamental similarity search and more expressive query workloads in vector databases:
+  - **Nearest Neighbor Search and Indexing.** Graph-based index and search with theoretical guarantee ([TODS'25](/publications/#pub-tods25-graphknn)), efficient proximity graph construction ([PVLDB'25](/publications/#pub-pvldb25-construction), [VLDBJ'26](/publications/#pub-vldbj26-construction)), cross-modal vector search ([PVLDB'27](/publications/#pub-pvldb27-crossmodal)), and privacy-preserving similarity search ([ICDE'25](/publications/#pub-icde25-privacy)).
+  - **Expressive Vector Queries.** Predicate- and range-filtered nearest neighbor search ([SIGMOD'26](/publications/#pub-sigmod26-predicates), [KDD'26](/publications/#pub-kdd26-range)), multi-vector search ([TheWebConf'26](/publications/#pub-www26-multivector)), similarity joins ([SIGMOD'25](/publications/#pub-sigmod25-join)), and integrated vector-relational query processing ([OSDI'23](/publications/#pub-osdi23-vbase)).
+- **Graph Algorithms and Systems.** I design efficient algorithms for influence maximization and minimization ([ICDE'23](/publications/#pub-icde23-misinformation), [PVLDB'24](/publications/#pub-pvldb24-influence), [JOC'25](/publications/#pub-joc25-influence)), network structural stability and resilience ([KDD'23](/publications/#pub-kdd23-stability), [TheWebConf'24](/publications/#pub-www24-resilience)), cycle discovery ([VLDBJ'26](/publications/#pub-vldbj26-cycles)), and graph-aware optimization of sparse matrix multiplication on GPUs ([EuroSys'25](/publications/#pub-eurosys25-groot)).
+
+See my [full publication list](/publications/) for all papers.
 
 
 Publications
