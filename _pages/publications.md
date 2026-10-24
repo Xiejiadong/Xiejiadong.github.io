@@ -66,9 +66,9 @@ author_profile: true
   <div class="pub-item">
     <div class="pub-title" id="pub-pvldb27-crossmodal">
       <strong>[PVLDB'27]</strong> Prior-Free Indexing for Cross-Modal Vector Search
-      <!-- <span class="pub-links">
-        <a href="https://dl.acm.org/doi/10.1145/3769765" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      </span> -->
+      <span class="pub-links">
+        <a href="/files/paper/[vldb27]vector_ood.pdf" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span>
     </div>
     <div class="pub-authors">
       <span class="me">Jiadong Xie</span>, Jeffrey Xu Yu, Yingfan Liu
