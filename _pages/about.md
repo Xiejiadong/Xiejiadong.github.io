@@ -18,8 +18,6 @@ My research interests lie in **data management and query processing**, particula
   - **Expressive Vector Queries.** Predicate- and range-filtered nearest neighbor search ([SIGMOD'26](/publications/#pub-sigmod26-predicates), [KDD'26](/publications/#pub-kdd26-range)), multi-vector search ([TheWebConf'26](/publications/#pub-www26-multivector)), similarity joins ([SIGMOD'25](/publications/#pub-sigmod25-join)), and integrated vector-relational query processing ([OSDI'23](/publications/#pub-osdi23-vbase)).
 - **Graph Algorithms and Systems.** I design efficient algorithms for influence maximization and minimization ([ICDE'23](/publications/#pub-icde23-misinformation), [PVLDB'24](/publications/#pub-pvldb24-influence), [JOC'25](/publications/#pub-joc25-influence)), network structural stability and resilience ([KDD'23](/publications/#pub-kdd23-stability), [TheWebConf'24](/publications/#pub-www24-resilience)), cycle discovery ([VLDBJ'26](/publications/#pub-vldbj26-cycles)), and graph-aware optimization of sparse matrix multiplication on GPUs ([EuroSys'25](/publications/#pub-eurosys25-groot)).
 
-See my [full publication list](/publications/) for all papers.
-
 
 Academic Services
 ======
