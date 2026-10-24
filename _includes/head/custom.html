@@ -35,4 +35,31 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+
+{% comment %}
+  Homepage body links: academic-style blue links without underlines.
+  Limit this override to the root homepage so navigation and other pages
+  retain their existing styling.
+{% endcomment %}
+{% if page.url == '/' %}
+<style>
+  .page__content a:not(.btn),
+  .page__content a:not(.btn):visited {
+    color: #1765ad;
+    text-decoration: none;
+  }
+
+  .page__content a:not(.btn):hover,
+  .page__content a:not(.btn):active {
+    color: #114c86;
+    text-decoration: none;
+  }
+
+  .page__content a:not(.btn):focus-visible {
+    outline: 2px solid #1765ad;
+    outline-offset: 2px;
+  }
+</style>
+{% endif %}
+
 <!-- end custom head snippets -->
