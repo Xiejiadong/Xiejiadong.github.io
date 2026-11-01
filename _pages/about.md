@@ -25,7 +25,7 @@ Academic Services
   - 2027: KDD, TheWebConf, WSDM, DASFAA.
   - 2026: KDD (🏆 [Best Reviewers](https://kdd2026.kdd.org/kdd-best-reviewers/#research)), TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data, WAICA.
   - 2025: TheWebConf, NeurIPS, ICDM, CIKM, IEEE Big Data.
-  - 2024: TheWebConf, CIKM, IEEE Big Data.
+  - 2024: VLDB (Emergency Reviewer), TheWebConf, CIKM, IEEE Big Data.
   - 2023: CIKM.
 - Invited **Journal** Reviewer
   - ACM Transactions on Database Systems (TODS).
