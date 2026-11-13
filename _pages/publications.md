@@ -64,6 +64,21 @@ author_profile: true
 <div class="pub-list">
 
   <div class="pub-item">
+    <div class="pub-title" id="pub-kdd27-role">
+      <strong>[KDD'27]</strong> Beyond Partitioning: Sharing Indices for Role-based Access Control in Vector Search
+      <!-- <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2605.26474" title="PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </span> -->
+    </div>
+    <div class="pub-authors">
+       <span class="me">Jiadong Xie</span>,  Xiaokun Cui, Yingfan Liu, Jeffrey Xu Yu, Jiangtao Cui
+    </div>
+    <div class="pub-venue">
+      Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2027
+    </div>
+  </div>
+
+  <div class="pub-item">
     <div class="pub-title" id="pub-pvldb27-crossmodal">
       <strong>[PVLDB'27]</strong> Prior-Free Indexing for Cross-Modal Vector Search
       <span class="pub-links">
