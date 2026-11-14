@@ -280,7 +280,7 @@ author_profile: true
       Fan Zhang, Qingyuan Linghu, <span class="me">Jiadong Xie</span>, Kai Wang, Xuemin Lin, Wenjie Zhang
     </div>
     <div class="pub-venue">
-      Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
+      Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023
     </div>
   </div>
 
