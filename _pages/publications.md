@@ -74,7 +74,7 @@ author_profile: true
        <span class="me">Jiadong Xie</span>,  Xiaokun Cui, Yingfan Liu, Jeffrey Xu Yu, Jiangtao Cui
     </div>
     <div class="pub-venue">
-      Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2027
+      Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2027
     </div>
   </div>
 
@@ -134,7 +134,7 @@ author_profile: true
       Yingfan Liu, Tong Wu, <span class="me">Jiadong Xie<sup class="pub-mark">★</sup></span>, Yang Zhao, Jeffrey Xu Yu, Jiangtao Cui<sup class="pub-mark">★</sup>
     </div>
     <div class="pub-venue">
-      Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2026
+      Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2026
     </div>
   </div>
 
